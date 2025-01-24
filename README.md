@@ -44,4 +44,6 @@ Le tableau de bord permet d'obtenir des insights en temps réel et facilite la p
 \
 ![7](https://github.com/user-attachments/assets/1d43c07c-38dd-41e0-814a-283f397bf4e7)
 
-
+### Developpement de la plateforme : 
+Cette application assure un accès fiable et sécurisé aux tableaux de bord, tout en offrant des fonctionnalités avancées telles qu’un système CRUD pour les comptes utilisateurs. De plus, elle intègre une analyse spécialisée pour la détection de fraudes dans les contrats PDF, renforçant ainsi la gestion proactive des risques et des données.
+** Description existe dans la premiere partie de projet **
